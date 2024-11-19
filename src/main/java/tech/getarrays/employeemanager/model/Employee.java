@@ -4,11 +4,11 @@ import jakarta.persistence.*;
 
 import java.io.Serializable; //Helps to transform Java class to different types of stream?
 
-@Entity
+@Entity //Ensures class is mapped to any DB on  class path?
 public class Employee implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    @Column(nullable = false, updatable = false)
+    @Column(nullable = false, updatable = false) //Once set, cannot be updated in DB.
     private Long id;
     private String name;
     private String email;
@@ -89,7 +89,6 @@ public class Employee implements Serializable {
                 ", jobTitle='" + jobTitle + '\'' +
                 ", phone='" + phone + '\'' +
                 ", imageUrl='" + imageUrl + '\'' +
-                ", employeeCode='" + employeeCode + '\'' +
                 '}';
     }
 }
