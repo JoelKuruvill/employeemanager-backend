@@ -4,8 +4,14 @@ Updated: 2024-Nov-21\
 ~\
 A project created to learn more about Angular and Fullstack development. Also to learn about Typescript and Spring Boot.\
 
-Following this course by Amigoscode: https://www.youtube.com/watch?v=Gx4iBLKLVHk [Stopped at 38min50sec]
+Following this course by Amigoscode: https://www.youtube.com/watch?v=Gx4iBLKLVHk [Stopped at 50min03sec]
+
 Bytecode version issues running code..
+
+# Design
+Worked on service and data layer
+next worked on controller to handle client (HTTP) requests
+not much logic in controller, but handle requests and responses. Service has the logic primarily.
 
 # References/Resources:
 - JDK: https://www.java.com/en/
