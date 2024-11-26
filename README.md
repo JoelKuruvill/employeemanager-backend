@@ -1,12 +1,12 @@
 # Employee Manager Application - A Spring Boot Fullstack with Angular Learning Project
 Created: 2024-June-21\
-Updated: 2024-Nov-21\
+Updated: 2024-Nov-26\
 ~\
 A project created to learn more about Angular and Fullstack development. Also to learn about Typescript and Spring Boot.\
 
-Following this course by Amigoscode: https://www.youtube.com/watch?v=Gx4iBLKLVHk [Stopped at 50min03sec]
+Following this course by Amigoscode: https://www.youtube.com/watch?v=Gx4iBLKLVHk [Stopped at 1hr03min34sec]
 
-Bytecode version issues running code..
+Bytecode version issues running code.. Issue resolved, Java 17 installed :/
 
 # Design
 Worked on service and data layer
