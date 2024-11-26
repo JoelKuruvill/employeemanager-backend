@@ -4,7 +4,7 @@ Updated: 2024-Nov-26\
 ~\
 A project created to learn more about Angular and Fullstack development. Also to learn about Typescript and Spring Boot.\
 
-Following this course by Amigoscode: https://www.youtube.com/watch?v=Gx4iBLKLVHk [Stopped at 1hr03min34sec]
+Following this course by Amigoscode: https://www.youtube.com/watch?v=Gx4iBLKLVHk [Stopped at 1hr09min25sec]
 
 Bytecode version issues running code.. Issue resolved, Java 17 installed :/
 
